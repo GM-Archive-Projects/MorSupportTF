@@ -2,3 +2,6 @@
 - [] Variableles File --> Add default aws CLI Profile to the variables file.
 - [] Variableles File --> Add default Envrironment to the variables file (Production, Development, Testing)
 - [] Variableles File --> Add default Project to the variables file 
+- [] Variableles File --> Add Prefixes to use 
+- [] Variableles File --> Add AMI to the Variableles file
+- [] Providers File --> Add Default Tags

@@ -1,0 +1,4 @@
+- [] Variableles File --> Add default aws region to the variables file.
+- [] Variableles File --> Add default aws CLI Profile to the variables file.
+- [] Variableles File --> Add default Envrironment to the variables file (Production, Development, Testing)
+- [] Variableles File --> Add default Project to the variables file 
